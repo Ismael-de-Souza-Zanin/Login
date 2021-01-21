@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OafEm8noZEdSe2Wsb+RHZlRiEwK7VyZ4Bv6f8+h7P3SDkn6g8Mpz+PoHCxZWeQiLRxyhP9tDKcQ+c4NNTLG3Hg==",
+  "dgSpecHash": "bZEtPpdXNbl8Pnx48SU6aPxPZ9oCSPzYi1B/b9aHOnJIl6kmhAh5kupJx9s151JITzM5uzi5w6jmNmdC0fkhzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\Logins.csproj",
+  "projectFilePath": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\GoldenBooks.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

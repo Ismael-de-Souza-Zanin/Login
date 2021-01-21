@@ -11820,9 +11820,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\Logins.csproj",
-      "projectName": "Logins",
-      "projectPath": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\Logins.csproj",
+      "projectUniqueName": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\GoldenBooks.csproj",
+      "projectName": "GoldenBooks",
+      "projectPath": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\GoldenBooks.csproj",
       "packagesPath": "C:\\Users\\mt100388\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mt100388\\source\\repos\\LoginSystem\\Logins\\obj\\",
       "projectStyle": "PackageReference",
