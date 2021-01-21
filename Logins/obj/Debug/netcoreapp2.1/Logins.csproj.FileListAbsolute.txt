@@ -7,7 +7,6 @@ C:\Users\mt100388\source\repos\LoginSystem\Logins\bin\Debug\netcoreapp2.1\Logins
 C:\Users\mt100388\source\repos\LoginSystem\Logins\bin\Debug\netcoreapp2.1\Logins.pdb
 C:\Users\mt100388\source\repos\LoginSystem\Logins\bin\Debug\netcoreapp2.1\Logins.Views.dll
 C:\Users\mt100388\source\repos\LoginSystem\Logins\bin\Debug\netcoreapp2.1\Logins.Views.pdb
-C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csprojAssemblyReference.cache
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.AssemblyInfoInputs.cache
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.AssemblyInfo.cs
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.pdb
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.genruntimeconfig.cache
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csproj.CopyComplete
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csprojAssemblyReference.cache
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

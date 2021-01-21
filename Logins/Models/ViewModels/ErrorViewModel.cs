@@ -1,6 +1,6 @@
 using System;
 
-namespace Logins.Models
+namespace Logins.Models.ViewModels
 {
     public class ErrorViewModel
     {
