@@ -33,4 +33,3 @@ C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.genruntimeconfig.cache
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csproj.CopyComplete
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csprojAssemblyReference.cache
-C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

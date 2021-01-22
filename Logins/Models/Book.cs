@@ -7,6 +7,7 @@ namespace Logins.Models
 {
     public class Book
     {
+        public int BookID { get; set; }
         public int Code { get; set; }
         public string Name { get; set; }
         public string Author { get; set; }
