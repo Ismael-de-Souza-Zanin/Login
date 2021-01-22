@@ -33,3 +33,8 @@ C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.genruntimeconfig.cache
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csproj.CopyComplete
 C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Logins.csprojAssemblyReference.cache
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\mt100388\source\repos\LoginSystem\Logins\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.cshtml.g.cs
